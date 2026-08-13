@@ -1,0 +1,3679 @@
+{
+ "Nigeria": [
+  {
+   "kind": "MI",
+   "slide": 3,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Pipeline Health accuracy improvement of avg of 10%",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process",
+     "Implement ITIL a globally recognized IT Service Management (ITSM) framework",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Improve debtor management",
+     "Establish plan to reduce debt; tighten credit approval policies; renegotiate customer payment terms",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2.5% contribution to service revenue with eCVM programs",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Lead to Order Automation; Salesforce integration; Billing process automation",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Online sales portal; reduce cost to serve; maintain/improve NPS; 10% increase in sales",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 4,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Channel Performance",
+     "Active E-Shop — % Contribution to Channel/month",
+     "NA"
+    ],
+    [
+     "Channel Performance",
+     "Implement Inside Sales/Tele Sales — % Contribution to Channel/month",
+     "1.3%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Training",
+     "Certified Converged (MS, IOT, UCC, Cloud, Security) — % staff certified",
+     "NA"
+    ],
+    [
+     "Training",
+     "Certified ITIL Foundation — % staff certified",
+     "NA"
+    ],
+    [
+     "Customer Experience",
+     "Voice of Customer — Rating",
+     "Work in Progress"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 5,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity; Service Delivery 2.0",
+     "Integrate LOM to Service Management tool; simplify supporting processes; improve efficiency & transparency",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Solution-Focused Approach; Integrated GTM; Sustainable revenue growth",
+     "Market understanding metrics; reposition EBU; increase conversion; drive eCVM",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Ghana": [
+  {
+   "kind": "Accelerate",
+   "slide": 7,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated 2026 Impact",
+    "YTD 2026 Performance",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "1. SME Indirect Sales",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1.1 Accelerate Telesales",
+     "Fast track telesales leads to revenue; create 2026 pipeline",
+     "Dec 2026",
+     "Non-financial",
+     "Non-financial",
+     "4"
+    ],
+    [
+     "1.2 Reseller Partnership (incl. MoMo agents)",
+     "Expand reseller scope to FBB, Association bundle & Business eye",
+     "Dec 2026",
+     "2,151,994.21",
+     "538,992.00",
+     "4"
+    ],
+    [
+     "2.1 VAS revenue on Mobile",
+     "Business VAS on A.F.A.; VAS on Adwumapa/SME Plus; Business VAS on GroupShare",
+     "Dec 2026",
+     "30,796,869",
+     "7,312,457.48",
+     "4"
+    ],
+    [
+     "2.2 Business Hub Revenue",
+     "Rapid revenue expansion via connectivity, fintech, cloud and business enablement",
+     "Dec 2026",
+     "30,430",
+     "55,214",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Accelerate",
+   "slide": 8,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated 2026 Impact",
+    "YTD 2026 Performance",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "3. Ringfence and grow Converged Service",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SDWAN Bundling",
+     "Commercials and business case; BTL lead gen and conversion",
+     "Dec 2026",
+     "3,835,994.80",
+     "2,115,319.40",
+     "4"
+    ],
+    [
+     "IoT Vertical Acceleration",
+     "Platform integration; IoT portfolio relaunch; onboarding ISVs",
+     "Dec 2026",
+     "30,388,695.45",
+     "11,695,452.41",
+     "4"
+    ],
+    [
+     "Security Solutions",
+     "Anti-DDoS, endpoint protection, cybersecurity; security strategy for SMEs & LEs",
+     "Dec 2026",
+     "1,102,997.32",
+     "",
+     "4"
+    ],
+    [
+     "Fixed data Acceleration",
+     "Y'ello Biz sales; Fibre to the Building; Yellow Storms",
+     "Dec 2026",
+     "126,545,660.69",
+     "52,010,220.56",
+     "4"
+    ],
+    [
+     "Government RFPs",
+     "Ghana Revenue Authority WAN+DI; Food and Drugs Authority WAN+DI+LAN+Firewall",
+     "Dec 2026",
+     "47,949,935.00",
+     "21,153,194.00",
+     "4"
+    ],
+    [
+     "eCVM Programs",
+     "Live CVM campaigns on Broadband, Association Bundles; campaign automations",
+     "Dec 2026",
+     "35,000,000",
+     "8,482,549",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 9,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Improve debtor management",
+     "Establish plan to reduce debt; involve Finance in credit approval processes",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process",
+     "Implement ITIL a globally recognized ITSM framework",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Service Management",
+     "Institute EBD & IT periodic engagement on EBD-specific IT deliverables",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2% contribution to service revenue with eCVM programs",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Lead to Order Automation (JARA); Salesforce integration; Billing automation (USSD, Chenosis)",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Online sales portal - Enterprise Marketplace; reduce cost to serve; 10% increase in sales",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 10,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Channel Performance",
+     "Implement Inside Sales/Tele Sales — % Contribution to Channel/month",
+     "1.3%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Customer Experience",
+     "Voice of Customer — Rating",
+     "Work in Progress"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 11,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Process Improvement (Rubix)",
+     "Review/design processes; contract templatise",
+     "Fair Usage Policy; finalise Product Lifecycle Governance; Products Board Charter; Unified Comms contract template",
+     ""
+    ],
+    [
+     "CVM",
+     "Up-sell and cross-sell campaigns; 2% contribution to service revenue",
+     "Confirm 2026 campaigns and expected CVM impact; close pending launch actions",
+     ""
+    ],
+    [
+     "Service Management",
+     "EBD & IT periodic engagement",
+     "Plan 2026 engagement; review IT demand deliverables; refresh bank payment automation",
+     ""
+    ],
+    [
+     "Customer Segmentation",
+     "Segment & KAM performance monitoring",
+     "Targets cascaded on new segmentation; performance tracking on new segments",
+     ""
+    ],
+    [
+     "Back Office Transformation",
+     "Ageing clean-up; USSD bill automation; 100% DCLM invoicing for ICT",
+     "Weekly ageing cadence; transition invoices Finance to DCLM; USSD automation recon to go-live",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Uganda": [
+  {
+   "kind": "Accelerate",
+   "slide": 14,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "1. Launch Telesales through channel partners",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1.1 Review & optimization of Partner onboarding process",
+     "Launch telesales through channel partners",
+     "Dec-26",
+     "4.9",
+     "0.15",
+     "4"
+    ],
+    [
+     "1.2 On board Partner & Run POC",
+     "Onboard partner and run proof of concept",
+     "Dec-26",
+     "4.9",
+     "0.15",
+     "4"
+    ],
+    [
+     "1.3 SME Value proposition",
+     "Define SME value proposition",
+     "Dec-26",
+     "4.9",
+     "0.15",
+     "4"
+    ],
+    [
+     "1.4 Define KPI's for Telesales",
+     "Define KPIs for telesales",
+     "Dec-26",
+     "4.9",
+     "0.15",
+     "4"
+    ],
+    [
+     "2. Leverage Capability Partners",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.1 Value propositions for both SME & LE",
+     "Value propositions for both SME & LE",
+     "Dec-26",
+     "15.8",
+     "4.47",
+     "4"
+    ],
+    [
+     "2.2 Digitize back-office process and automate systems integration",
+     "Digitize back-office and automate systems integration",
+     "Dec-26",
+     "15.8",
+     "4.47",
+     "4"
+    ],
+    [
+     "2.3 Appoint coordinators",
+     "Appoint coordinators",
+     "Dec-26",
+     "15.8",
+     "4.47",
+     "4"
+    ],
+    [
+     "2.4 Review & optimize the partner onboarding process",
+     "Review & optimise partner onboarding process",
+     "Dec-26",
+     "15.8",
+     "4.47",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Accelerate",
+   "slide": 15,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "3. Expand Hunting field sales network",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3.1 Value propositions for SME",
+     "Value propositions for SME",
+     "Dec-26",
+     "18.0",
+     "13.91",
+     "4"
+    ],
+    [
+     "3.2 SME Assisted Digital Channel: EBU Mobile Sales App",
+     "EBU Mobile Sales App",
+     "Dec-26",
+     "18.0",
+     "13.91",
+     "4"
+    ],
+    [
+     "3.3 Leverage S&D distribution network",
+     "Leverage S&D distribution network",
+     "Dec-26",
+     "18.0",
+     "13.91",
+     "4"
+    ],
+    [
+     "3.4 Increase resources to 250",
+     "Increase resources to 250",
+     "Dec-26",
+     "18.0",
+     "13.91",
+     "4"
+    ],
+    [
+     "3.5 Review and optimize partner onboarding process",
+     "Review and optimise partner onboarding process",
+     "Dec-26",
+     "18.0",
+     "13.91",
+     "4"
+    ],
+    [
+     "4. Expand ICT Offering",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4.1 Acquire certifications for sales teams",
+     "Acquire certifications for sales teams",
+     "Dec-26",
+     "15.7",
+     "18.04",
+     "4"
+    ],
+    [
+     "4.2 Recruit ICT Specialists",
+     "Recruit ICT specialists",
+     "Dec-26",
+     "15.7",
+     "18.04",
+     "4"
+    ],
+    [
+     "4.3 Standardization and consolidation of sales pipeline",
+     "Standardize and consolidate sales pipeline",
+     "Dec-26",
+     "15.7",
+     "18.04",
+     "4"
+    ],
+    [
+     "4.4 Sales booster Campaign (to sell ICT products)",
+     "Sales booster campaign",
+     "Dec-26",
+     "15.7",
+     "18.04",
+     "4"
+    ],
+    [
+     "4.5 Decouple ICT billing from GSM in the solution design",
+     "Decouple ICT billing from GSM",
+     "Dec-26",
+     "15.7",
+     "18.04",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Accelerate",
+   "slide": 16,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "5. Assisted SME Self-service Channels",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "5.1 Dedicated traffic coordinator - social media manager",
+     "Dedicated traffic coordinator",
+     "Dec-26",
+     "4.5",
+     "2.77",
+     "4"
+    ],
+    [
+     "5.2 Omni-channel platform adoption: myMTN, USSD, website",
+     "Omni-channel platform adoption",
+     "Dec-26",
+     "4.5",
+     "2.77",
+     "4"
+    ],
+    [
+     "5.3 Billing system/integration bundled offers - prepaid",
+     "Billing system/integration bundled offers",
+     "Dec-26",
+     "4.5",
+     "2.77",
+     "4"
+    ],
+    [
+     "5.4 App enhancement (myMTN app)",
+     "myMTN app enhancement",
+     "Dec-26",
+     "4.5",
+     "2.77",
+     "4"
+    ],
+    [
+     "6. Grow Public Sector Revenue",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "6.1 Develop a public sector strategy",
+     "Develop a public sector strategy",
+     "Dec-26",
+     "4.5",
+     "2.94",
+     "4"
+    ],
+    [
+     "6.2 Identify strategic partnerships",
+     "Identify strategic partnerships",
+     "Dec-26",
+     "4.5",
+     "2.94",
+     "4"
+    ],
+    [
+     "6.3 Public Sector event (positioning event)",
+     "Public sector positioning event",
+     "Dec-26",
+     "4.5",
+     "2.94",
+     "4"
+    ],
+    [
+     "6.4 Resourcing",
+     "Resourcing",
+     "Dec-26",
+     "4.5",
+     "2.94",
+     "4"
+    ],
+    [
+     "6.5 Review & optimize partners onboarding process",
+     "Review & optimise partner onboarding process",
+     "Dec-26",
+     "4.5",
+     "2.94",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Accelerate",
+   "slide": 17,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "7. Inside Sales",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "7.1 Define the sales process",
+     "Define the sales process",
+     "Dec-26",
+     "5.4",
+     "0.11",
+     "4"
+    ],
+    [
+     "7.2 Launch sales force - for data analytics",
+     "Launch sales force for data analytics",
+     "Dec-26",
+     "5.4",
+     "0.11",
+     "4"
+    ],
+    [
+     "7.3 Training of staff on complex solutions",
+     "Training of staff on complex solutions",
+     "Dec-26",
+     "5.4",
+     "0.11",
+     "4"
+    ],
+    [
+     "7.4 Implementation of guided sales journey on BSS",
+     "Guided sales journey on BSS",
+     "Dec-26",
+     "5.4",
+     "0.11",
+     "4"
+    ],
+    [
+     "7.5 Interim data analytics tool development",
+     "Interim data analytics tool development",
+     "Dec-26",
+     "5.4",
+     "0.11",
+     "4"
+    ],
+    [
+     "8. API Acceleration",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "8.1 Launch event & deployment of other API SKU",
+     "Launch event & deploy API SKUs",
+     "Dec-26",
+     "1.6",
+     "0.81",
+     "4"
+    ],
+    [
+     "8.2 Contracting with identified partners",
+     "Contracting with identified partners",
+     "Dec-26",
+     "1.6",
+     "0.81",
+     "4"
+    ],
+    [
+     "8.3 Onboarding process automation",
+     "Onboarding process automation",
+     "Dec-26",
+     "1.6",
+     "0.81",
+     "4"
+    ],
+    [
+     "8.4 Development of other API SKUs",
+     "Development of other API SKUs",
+     "Dec-26",
+     "1.6",
+     "0.81",
+     "4"
+    ],
+    [
+     "9. Hunting Sales Force",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "9.1 Define sales strategy for hunting",
+     "Define sales strategy for hunting",
+     "Dec-26",
+     "3.2",
+     "0.08",
+     "4"
+    ],
+    [
+     "9.2 Appoint 2 x sales staff",
+     "Appoint 2 sales staff",
+     "Dec-26",
+     "3.2",
+     "0.08",
+     "4"
+    ],
+    [
+     "9.3 Appoint 1 x sales manager",
+     "Appoint 1 sales manager",
+     "Dec-26",
+     "3.2",
+     "0.08",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 18,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Pipeline Health accuracy improvement of avg of 10%",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process",
+     "Implement ITIL a globally recognized ITSM framework",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Service Management",
+     "Aligned with IT for periodic engagement on EBD-specific deliverables",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2.5% contribution to service revenue with eCVM programs",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Lead to Order Automation; Salesforce integration; Billing process automation",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Online sales portal; reduce cost to serve; maintain/improve NPS; 10% increase in sales",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales, IITL & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 19,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Channel Performance",
+     "Implement Inside Sales/Tele Sales — % Contribution to Channel/month",
+     "1.3%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Customer Experience",
+     "Voice of Customer — Rating",
+     "Work in Progress"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 20,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity; Service Delivery 2.0",
+     "Integrate LOM to Service Management tool; simplify supporting processes",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Solution-Focused Approach; Integrated GTM",
+     "Market understanding metrics; reposition EBU; increase conversion; drive eCVM",
+     ""
+    ]
+   ]
+  }
+ ],
+ "South Sudan": [
+  {
+   "kind": "Accelerate",
+   "slide": 22,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "1. Channel Optimisation & Growth",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "S&D Sales Channel Development",
+     "Activate and optimise channel for revenue diversification",
+     "June 31st",
+     "20.96 m",
+     "16.9 m",
+     "4"
+    ],
+    [
+     "External Sales Agency / Reseller Initiative",
+     "Complete pilot; extend performing partner contracts; onboard Rukia Technology",
+     "June 31st",
+     "12.57 m",
+     "31.77 m",
+     "4"
+    ],
+    [
+     "Tele sales",
+     "Outbound campaign (FTTX, Rabita, IVR); telesales enablement product training",
+     "June 31st",
+     "1.56 m",
+     "1.11",
+     "4"
+    ],
+    [
+     "2. New Value Proposition Delivery",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Community Value Proposition",
+     "Media campaign; marketing support production; revised journey",
+     "July 31st",
+     "+9112",
+     "+745 RGS",
+     "4"
+    ],
+    [
+     "Fixed Mobile IVR/PBX",
+     "Bundle of fixed phone + IVR to drive UCC revenue; Home & office connect",
+     "July 30th",
+     "88.97 m",
+     "44.4 m",
+     "4"
+    ],
+    [
+     "Bulk SMS",
+     "Prepaid Bulk SMS + MoMo payments; design sign-off; reverse URL",
+     "May 17th",
+     "32.1 m",
+     "36.3 m",
+     "4"
+    ],
+    [
+     "Sponsored Data / Reverse Billed URL / APN Solution",
+     "Enterprise sponsored data; GTM execution; sales training",
+     "May 29th",
+     "27.5 m",
+     "",
+     "4"
+    ],
+    [
+     "Corporate Portal for bulk activation & Recharge",
+     "Phase 2 bundle activation & onboarding; go-live; GTM",
+     "May 15th",
+     "+320 RGS",
+     "+375 RGS",
+     "4"
+    ],
+    [
+     "3. Segment Optimisation & Growth",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Enterprise Wi-Fi - Hotspot (USSD/MoMo)",
+     "Product launched; media campaign; marketing support production",
+     "May 31st",
+     "12 m",
+     "",
+     "4"
+    ],
+    [
+     "Converged Revenue - IoT offers creation",
+     "UAT sign-off & go-live; SIM management platform review",
+     "June 31st",
+     "",
+     "5 m",
+     "4"
+    ],
+    [
+     "Cloud Services",
+     "Contractual & cloud service schedule sign-off; MTN SS team training",
+     "June 30th",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "Public Sector Development",
+     "Public sector tenders and activations across ministries & councils",
+     "Dec 31st",
+     "+280 RGS, +2 DIA, +6 UCC, 15 FWA",
+     "+319 Mobile RGS, 0 DIA, +1 UCC, +13 FWA",
+     "4"
+    ],
+    [
+     "Oil & Gas Development",
+     "SPOC/GPOC tenders; DIA and Starlink proposals",
+     "Dec 31st",
+     "310 m",
+     "47.5 m",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 26,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Defined Sales Process",
+     "Sales PPP documentation review; sign off Sales Governance & PPP",
+     "31st Dec",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process",
+     "Fixed & mobile services delivery PPP; onboard EBU services on ServiceNow",
+     "Dec 31st",
+     "Beginner",
+     "Intermediate",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "CVM campaigns - Mobile 30-60 days inactive",
+     "Dec 31st",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Network Monitoring on fixed links",
+     "CPE router install; Bank MPLS onboarding; Cacti integration; Starlink portal",
+     "June 30th",
+     "Beginner",
+     "Intermediate",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Add SME contact channel by onboarding CSPs; revised dunning rules",
+     "June 30",
+     "Beginner",
+     "Intermediate",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "EBU/HVC contact centre implemented; migrate segments; back-office training",
+     "June 30th",
+     "Beginner",
+     "Intermediate",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales Training",
+     "Productivity skills; Enterprise/ICT Academy; Microsoft Azure training",
+     "Dec 31st",
+     "Intermediate",
+     "Intermediate",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 29,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Channel Performance",
+     "Implement Inside Sales/Tele Sales — % Contribution to Channel/month",
+     "1.3%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Customer Experience",
+     "Voice of Customer — Rating",
+     "Work in Progress"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 30,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity",
+     "Integrate LOM to Service Management tool; simplify supporting processes",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Solution-Focused Approach; Integrated GTM",
+     "Market understanding metrics; reposition EBU; drive eCVM",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Zambia": [
+  {
+   "kind": "Accelerate",
+   "slide": 32,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "1. SME Informal Sector (Cooperatives & Associations)",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1.1 SME Prepaid drive (GA); 1.2 Association & Co-ops",
+     "S&D collaboration; channel expansion; resellers; direct & indirect channels",
+     "31/12/2026",
+     "29,007,032",
+     "4,022,504",
+     "4"
+    ],
+    [
+     "1.3 Simplify Customer journey for SME; 1.4 eCVM",
+     "SME offers on short code 117; base profiling; scheduled campaigns",
+     "31/12/2026",
+     "3,071,417",
+     "",
+     "4"
+    ],
+    [
+     "1.5 Device Financing Partner",
+     "Contract with vendor for devices on 24-month payment plan",
+     "04/04/2025",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "2. Increase Telesales revenue",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.1 Implement new commission structure for Inside Sales",
+     "Implemented commission structure; track performance",
+     "31/12/2025",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "2.2 Inside Sales Workshop",
+     "Continuous improvement; segmentation and role realignment",
+     "31/12/2026",
+     "2,700,000",
+     "2,073,694",
+     "4"
+    ],
+    [
+     "3. Grow LE Verticals",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3.1 Fixed Revenue Growth",
+     "39 Starlink connections; upgrades; new DIA and MPLS links",
+     "Q4 2026",
+     "12,597,000",
+     "2,643,680",
+     "4"
+    ],
+    [
+     "3.2 Converged Vertical Acceleration",
+     "Converged services; Private 5G site surveys",
+     "Q4 2026",
+     "7,125,000",
+     "3,317,850",
+     "4"
+    ],
+    [
+     "3.3 Digital Solution (Mobile Advertising)",
+     "Mobile advertising customers",
+     "Q4 2026",
+     "1,224,000",
+     "253,971",
+     "4"
+    ],
+    [
+     "3.4 Chinese Segment targeting",
+     "Sign up Chinese-segment customers",
+     "Q4 2026",
+     "2,400,000",
+     "64,973",
+     "4"
+    ],
+    [
+     "3.5 Appointment of Chinese Speaking KAM",
+     "Appoint 1 Chinese-speaking KAM",
+     "Q2 2026",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "4. Grow Public Sector Segment",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4.1 Public Sector Positioning Event",
+     "PS event planned for Q1 2026",
+     "Q4 2026",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "4.2 Opportunity sizing & segmentation of the PS",
+     "Completed opportunity sizing & segmentation",
+     "Q4 2026",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "4.3 Develop Public sector strategy",
+     "Sign up major ministries on voice & data; target SOEs",
+     "Q4 2026",
+     "12,300,000",
+     "858,066",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 34,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Pipeline Health accuracy improvement of avg of 10%",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process",
+     "Implement ITIL a globally recognized ITSM framework",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Network Fixed Monitoring",
+     "Conclude on solution & scope",
+     "Q2 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2.5% contribution to service revenue with eCVM programs",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Sales Lead to Order; RPA payment allocation & reconciliation; billing automation",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Online sales portal; procurement & evaluation of solution providers",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales, AI Training & ITIL",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 35,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Channel Performance",
+     "Implement Inside Sales/Tele Sales — % Contribution to Channel/month",
+     "1.3%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 36,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity",
+     "Integrate LOM to Service Management tool; simplify supporting processes",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Solution-Focused Approach; Integrated GTM",
+     "Market understanding metrics; reposition EBU; drive eCVM",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Côte d’Ivoire": [
+  {
+   "kind": "Accelerate",
+   "slide": 38,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "1. Accelerate in SME",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1.1 Y’ello PME Launch",
+     "Yello PME launched; dedicated sales team; partner acceleration",
+     "30 June 2026",
+     "SME NPS improvement; 30% growth on SME customers; 27% YoY SME revenue",
+     "+0,5% YoY revenue (normalized)",
+     "4"
+    ],
+    [
+     "1.2 FTTB",
+     "PO for EBU feature in workflow; manual migration of ~2.4K existing customers",
+     "15 July 2026",
+     "230 sales per month; Revenue: 463M XOF",
+     "167 sales per month",
+     "4"
+    ],
+    [
+     "2. Accelerate LE & converged Service",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Mobile Network Portability",
+     "Regulatory alignment; roll-out May 2026; contract with MEDIAFON",
+     "30 June 2026",
+     "Voice Revenue 2026: 8,6 Bn XOF; YoY +15%",
+     "",
+     "4"
+    ],
+    [
+     "Value proposition revamp",
+     "Roaming revamp; offer & tariff (Paygo & Bundle); go-live",
+     "25 June 2026",
+     "30% revenue from specific bundles; data-only +20%; UCC +21% YoY; +1,26 Bn XOF",
+     "",
+     "4"
+    ],
+    [
+     "Back-Office Transformation",
+     "Scope defined; RFP launch for Sales Excellence; select partner & integrate",
+     "19 July 2026",
+     "",
+     "",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 41,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Pipeline Health accuracy improvement of avg of 10%",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "EBU Website Modernization",
+     "Modernise EBU website",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Fault Logging system update",
+     "Update fault logging system",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2.5% contribution to service revenue with eCVM programs",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales, ITIL & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 42,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "2.7x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "15.23%"
+    ],
+    [
+     "Fixed Connectivity",
+     "Proactive monitoring of customer links — % links monitored",
+     "Cacti/Zabbix"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 43,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity",
+     "Integrate LOM to Service Management tool; simplify supporting processes",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Solution-Focused Approach; Integrated GTM",
+     "Market understanding metrics; reposition EBU; drive eCVM",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Cameroon": [
+  {
+   "kind": "Accelerate",
+   "slide": 45,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "1. SME Regional Channels Play",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1.1 S&D & CX as distribution channel",
+     "S&D and CX interlocks live; challenge launched; productivity focus",
+     "Q4",
+     "575 Mn",
+     "112.2 Mn",
+     "4"
+    ],
+    [
+     "1.2 EBU Specific Global Partners (for Acquisitions)",
+     "Four additional partners onboarded (SALEKA, AWAH & SONS, AMTN, SOCAPRESCO)",
+     "Q1",
+     "575 Mn",
+     "37.2 Mn",
+     "4"
+    ],
+    [
+     "1.3 Peripheric storm",
+     "Direct Sales remote area coverage; 5 indirect channel regional staff recruited",
+     "Q3",
+     "575 Mn",
+     "",
+     "4"
+    ],
+    [
+     "1.4 SME Prepaid New Value Propositions",
+     "Combined offer (Mobile Voice + Data + Security / WhatsApp Business / One Office)",
+     "Q1",
+     "575 Mn",
+     "0.8 Mn",
+     "4"
+    ],
+    [
+     "1.5 Promos launched / Commissions updates",
+     "Wifix Promo phases; commission tiering live; Tera Link promo",
+     "Q3",
+     "575 Mn",
+     "795.8 Mn",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Accelerate",
+   "slide": 46,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "2. Uplift existing base",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "2.1 Pricing Optimization",
+     "One-minute billing interval; segmented roaming prices; Biz Flexi depletion change",
+     "Q2",
+     "1 Bn",
+     "203 Mn",
+     "4"
+    ],
+    [
+     "2.2 PNL Renewal Campaign",
+     "OBD & OBC campaigns; automatic SMS; digital (WhatsApp & Instagram) campaigns",
+     "Q2",
+     "1 Bn",
+     "99 Mn",
+     "4"
+    ],
+    [
+     "2.3 Lead Generation & Conversion",
+     "Kaspersky, domain-name SMS campaigns on Digital Hub",
+     "Q2",
+     "1 Bn",
+     "4.1 Mn",
+     "4"
+    ],
+    [
+     "1.4 MoMo Merchant uplifting base",
+     "Home Classic - Prepaid WiSpeed upsell; OBD to cross-sell Kaspersky",
+     "Q2",
+     "1 Bn",
+     "",
+     "4"
+    ],
+    [
+     "1.5 Cross Selling Initiatives",
+     "Bandwidth capacity upgrade; dual-account prepaid stimulation campaign",
+     "Q3",
+     "1 Bn",
+     "",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Accelerate",
+   "slide": 47,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "3. Win Key tenders & Competition GSM Churn Plan",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "3.1 Ring fence strategic tenders from verticals",
+     "PATNUC, NFC, Ecobank, CTF, PAK, BOCOM, MINSANTE, PRC",
+     "Q2",
+     "6.9 Bn",
+     "489 Mn",
+     "4"
+    ],
+    [
+     "3.2 Acquire Top 20 competition GSM accounts",
+     "SODECOTON (5926 lines); CCAA (1022 lines); Air France; ENEO",
+     "Q2",
+     "6.9 Bn",
+     "573 Mn",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Accelerate",
+   "slide": 48,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "4. Expand ICT offering based on market potential",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "4.1 Launch Professional Services",
+     "Software development VP; SED training on AZ and MS900",
+     "Q3",
+     "1.549 Bn",
+     "2.665 Bn (SONATREL, KCT, COTCO, PAK, CFC)",
+     "4"
+    ],
+    [
+     "4.2 Accelerate Converged Services Partnerships",
+     "Scale vertical solutions sales",
+     "Q3",
+     "1.549 Bn",
+     "",
+     "4"
+    ],
+    [
+     "4.3 Enhance Vertical forums (CTIO Forum)",
+     "Y'ello Tech Summit planned in June",
+     "Q3",
+     "1.549 Bn",
+     "",
+     "4"
+    ],
+    [
+     "4.4 Data Center Certification",
+     "Design certification (Uptime feedback received)",
+     "Q3",
+     "1.549 Bn",
+     "",
+     "4"
+    ],
+    [
+     "4.5 Launch Group New VPs and Platforms (IoT)",
+     "AZURE Stack HCI ready for VPS",
+     "Q2-Q3",
+     "1.549 Bn",
+     "",
+     "4"
+    ],
+    [
+     "5. Grow Public Sector Revenue",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "5.1 Public Sectors Vertical Forums (CTIO Forum)",
+     "Public sector vertical forums",
+     "Q1-Q4",
+     "1.927 Bn",
+     "",
+     "4"
+    ],
+    [
+     "5.2 Public Sector Positioning Events",
+     "Microsoft event launched in April",
+     "Q1-Q4",
+     "1.927 Bn",
+     "",
+     "4"
+    ],
+    [
+     "6. Fixed Connectivity",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tera Link launch (Strategic Positioning & GTM)",
+     "NVP & GTM closed; 49 Bn deployed nationwide",
+     "Q2",
+     "",
+     "",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 49,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Pipeline Health accuracy improvement of avg of 10%",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process (ITSM)",
+     "Implement ITIL a globally recognized ITSM framework",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Network Fixed Monitoring",
+     "Active & pro-active monitoring; service desk integration",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2.5% contribution to service revenue with eCVM programs",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Lead to Order Automation; Salesforce integration; Billing automation",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Online sales portal; reduce cost to serve; 10% increase in sales",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 50,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 51,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity",
+     "Integrate LOM to Service Management tool; simplify supporting processes",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Solution-Focused Approach; Integrated GTM",
+     "Market understanding metrics; reposition EBU; drive eCVM",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Rwanda": [
+  {
+   "kind": "Accelerate",
+   "slide": 53,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Resourcing",
+     "Onboarded S&D & Customer Operations channels; recruited inside/telesales agents",
+     "Dec-26",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "Launched sales force - for sales acceleration & conversion",
+     "EB LOM platform training for LE & SME teams; sales analytics",
+     "Dec-26",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "eCVM (Opportunities, Growth, Acceleration)",
+     "Revamped phone-deal model; menu enhancement for EBU prepaid base",
+     "Dec-26",
+     "",
+     "",
+     "4"
+    ],
+    [
+     "Converged Solutions",
+     "Launch of Anti-DDoS; cloud hosting POC for 2 customers (BK and Yabx)",
+     "Dec-26",
+     "",
+     "",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 54,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Drive Sales Excellence",
+     "Adopt online Lead & Opportunity Management tool for end-to-end sales cycle",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process",
+     "Create IPC process to restore normal service operation quickly (converged)",
+     "Q2 2025",
+     "Intermediate",
+     "Intermediate",
+     "4"
+    ],
+    [
+     "Improve debtor management",
+     "Establish plan to reduce debt; tighten credit; renegotiate terms",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "1.5%+ incremental enterprise revenue from eCVM; up-sell & cross-sell campaigns",
+     "Q2 2025",
+     "Advanced",
+     "Control",
+     "4"
+    ],
+    [
+     "Network Monitoring on fixed links",
+     "Start basic Infosim management service; proactive monitoring",
+     "Q4 2026",
+     "Beginner",
+     "Intermediate",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Lead to Order Automation; Payment Allocation RPA; Billing & Recon RPA",
+     "Q2 2026",
+     "Advanced",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Self-service portal; high-volume journeys; NPS at #2",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales, converged, ITIL, Training",
+     "SME 90% & LE 90% sales staff certified; Bronze/Silver progression",
+     "Q3 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 55,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 56,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity",
+     "Integrate LOM to Service Management tool; simplify supporting processes",
+     ""
+    ],
+    [
+     "EBU Website Modernization",
+     "Update EBU website with latest catalogue content",
+     "Engage marketing team to update website with catalogue information",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Benin": [
+  {
+   "kind": "Accelerate",
+   "slide": 58,
+   "headers": [
+    "Initiative",
+    "Description / Ambition",
+    "Due Date",
+    "Estimated Impact (LC)",
+    "Actual Impact (LC)",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "1. Key Initiatives",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "1.1 Develop and mature sales channel",
+     "S&D and CES integration; develop digital channels & onboard platform partners",
+     "Q2 2026",
+     "1,2 Bn",
+     "170 Mn",
+     "4"
+    ],
+    [
+     "1.2 SME specific value proposition",
+     "Hero products; starter pack bundling for SMEs; MTN BIBE PRO (pending regulatory approval)",
+     "Q4 2026",
+     "SME Incremental Revenue 450 Mn",
+     "",
+     "4"
+    ],
+    [
+     "1.3 Expand ICT products / Services offerings",
+     "IoT-Fleet Management; Web services; Video Surveillance & security solutions",
+     "Q1 2026",
+     "770 Mn",
+     "20 Mn",
+     "4"
+    ],
+    [
+     "1.4 Digitize SME",
+     "Bill Payment through MyMTN/MM; Dunning Management; UAT ongoing",
+     "Q3 2026",
+     "Recovery rate +5%",
+     "",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 59,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Improve debtor management",
+     "Establish plan to reduce debt; credit management policy; public-sector debt management",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Sales Excellence",
+     "Onboard online Lead & Opportunity Management tool; 3x pipeline cover",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Back Office Transformation",
+     "WhatsApp Business implementation; SME self-onboarding; hotline 120 for B2B",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Online sales portal; reduce cost to serve; 10% increase in sales",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales, Converge & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 60,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Public Sector",
+     "% Channel contribution (YTD Act vs Bud 16%)",
+     "18%"
+    ],
+    [
+     "Corporate Sector",
+     "% Channel contribution (YTD Act vs Bud 22%)",
+     "19%"
+    ],
+    [
+     "MDM Sector",
+     "% Channel contribution (YTD Act vs Bud 13%)",
+     "3%"
+    ],
+    [
+     "Channel Performance",
+     "Implement Inside Sales/Tele Sales — % Contribution/month",
+     "17%"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo (Base 3.10; Bud 3.14)",
+     "3.10"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 61,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Develop & Mature sales channel",
+     "Tele-Account Manager; S&D & CES integration; digital; partners & resellers",
+     "S&D/CES integration monitoring; digital channel",
+     ""
+    ],
+    [
+     "Drive SME growth (VP & bundling)",
+     "Integrated VP; standard/small/medium packages",
+     "SME Welcome pack MTN BIBE PRO under development; pending regulatory approval",
+     ""
+    ],
+    [
+     "Expand ICT products/services",
+     "Portfolio transformation; partnerships; in-house development",
+     "Security solutions ongoing; IoT Fleet Management (launched); MTN Web Services; Video Surveillance",
+     ""
+    ],
+    [
+     "Digitize 100% of SME journeys",
+     "Onboarding; e-billing; payment allocation; dunning management",
+     "Bill Payment through MyMTN/MoMoApp under development; dunning & payment allocation testing",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Sudan": [
+  {
+   "kind": "MI",
+   "slide": 63,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Pipeline Health accuracy improvement of avg of 10%",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process",
+     "Implement ITIL a globally recognized ITSM framework",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Improve debtor management",
+     "Establish plan to reduce debt; tighten credit; renegotiate terms",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2.5% contribution to service revenue with eCVM programs",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Lead to Order Automation; Salesforce integration; Billing automation",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Online sales portal; reduce cost to serve; 10% increase in sales",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 64,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 65,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity",
+     "Integrate LOM to Service Management tool; simplify supporting processes",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Solution-Focused Approach; Integrated GTM",
+     "Market understanding metrics; reposition EBU; drive eCVM",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Congo Brazzaville": [
+  {
+   "kind": "MI",
+   "slide": 71,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sales Excellence",
+     "Onboard the free online opportunity management tool with GEBU back-office",
+     "Q1 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "CVM",
+     "Renewal & ADS campaigns with Flytxt; NDAKO Business win-back; grow ADS to 30%",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Marketing",
+     "OSIANE ICT convention; AfDB annual meeting; social-media advertising campaigns",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Back Office Transformation",
+     "Migration to new CRM & billing platform (ZSMART); QR code CSAT; credit management",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Ipsos NPS analysis; weekly VOC surveys; customer KYC update",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Marketplace",
+     "Launched on JiJi; MTN One for Business; monetize marketplace opportunities",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core, ITIL and AI training",
+     "Engage Academy on catalogue; contract teams; implement training plans",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 75,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution (YTD Act 35.1% / Bud 34.3%)",
+     "35.0%"
+    ],
+    [
+     "Channel Performance",
+     "Implement Inside Sales/Tele Sales — % Contribution to Channel/month",
+     "0.3%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "220M"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "34.9%"
+    ],
+    [
+     "Customer Experience",
+     "Voice of Customer (Daily NPS) — Rating (% promoters)",
+     "88%"
+    ],
+    [
+     "Fixed Connectivity",
+     "% links proactively monitored",
+     "100%"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth (Base 92%)",
+     "+4%"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 73,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "S&D as EBU Channel; MMC as EBU Channel; NDAKO FIXE",
+     "Recruit certified acquisition points; resume Home sales (489 boxes)",
+     ""
+    ],
+    [
+     "Converged services",
+     "ST DIGITAL; LAFRICAMOBILE",
+     "WO signed and forwarded to P&S for deployment",
+     ""
+    ],
+    [
+     "Digitilze Journeys",
+     "Onboarding & activation; MTN One; SIM activation/SWAP; invoice & billing",
+     "KYC update; 4G/5G SIM & e-SIM activation; SFEC project",
+     ""
+    ],
+    [
+     "CVM & Pricing",
+     "Renewal; acquisition; awareness; cross/upsell",
+     "EBU Data Bundle campaigns; dormant & bundle campaigns",
+     ""
+    ],
+    [
+     "Sales Hunting",
+     "Data Center; Offshore solutions; SFEC; E2C Telemeter",
+     "Close ECOBANK/UBA/BCI; ENICONGO & AMMAT negotiations",
+     ""
+    ],
+    [
+     "Expand ICT Offering",
+     "IOT & UCC platform; Odoo resales; archiving; MTN POS features",
+     "Deploy UCC & IOT platform; enhance MTN POS (BulkSMS, Dashboards)",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Liberia": [
+  {
+   "kind": "MI",
+   "slide": 78,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Improved pipeline accuracy; online lead & opportunity tool updated",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Core Sales, Converged, ITIL & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Improve debtor management",
+     "Establish plan to reduce debt; two debt-collector companies hired",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 3% contribution to service revenue; utilization of eCVM in Q2 2026",
+     "Q1-4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Lead to Order Automation; Salesforce integration; Billing automation",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Hotline (5656); outbound telemarketing; reduce cost to serve; 5% increase in sales",
+     "Q1-4 2026",
+     "Control",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 80,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 79,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "LE Engagement + Cross selling",
+     "Weekly visitation; fibre price review with Csquared; pipeline tracking",
+     "Visit base & cross-sell; MNC & Bayobab collaboration; strategic LE deals; target 15 new accounts",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "Salesforce integration; billing automation",
+     "BSS Platform; 24 Online onboarding; EB LOM (sales platform)",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Device partnership; media engagement",
+     "Home D2D & WhatsApp campaigns; market storm & dormancy; Csquared collaboration",
+     ""
+    ],
+    [
+     "Improve debtor management",
+     "Two debt-collector companies hired; plan to reduce debt",
+     "Prepaid invoicing ongoing; ageing support; recon of aged invoices",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Ensure salesforce updated with latest information",
+     "Weekly pipeline review; expand prospect base (visitations)",
+     ""
+    ]
+   ]
+  }
+ ],
+ "Eswatini": [
+  {
+   "kind": "MI",
+   "slide": 83,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Defined Sales Process",
+     "Lead and Opportunity App adopted; align team to Miller-Heiman",
+     "Q2 2026",
+     "Control",
+     "Advanced",
+     "2"
+    ],
+    [
+     "Service Management",
+     "Aligned with IT for periodic engagement on EBD-specific deliverables",
+     "Q2 2026",
+     "Control",
+     "Advanced",
+     "2"
+    ],
+    [
+     "eCVM",
+     "Top Up campaign launched; SMS activation twice a week; eCVM bundles live",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "2"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "EBU pre-paid propositions",
+     "Offers live in PPOC; POC with 4 co-ops; apply for regulator approval (ATL)",
+     "Q2 2026",
+     "Intermediate",
+     "Advanced",
+     "1"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales Training",
+     "Sales academy & IT accreditation for technical teams",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "1"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 84,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Pipeline Health accuracy improvement of avg of 10%; group sales tool",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "3"
+    ],
+    [
+     "Prepaid Offers",
+     "Prepaid offers created & delivered; POC on 4 large corporations; ATL rollout in July",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "2"
+    ],
+    [
+     "Improve debtor management",
+     "Establish plan to reduce debt; weekly credit committee update; renegotiate terms",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2.5% contribution to service revenue with eCVM programs; Top Up campaign",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "2"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales & AI Training",
+     "Establish training plan aligned with OpCo strategy; team trained on Responsible AI",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "2"
+    ]
+   ]
+  }
+ ],
+ "South Africa": [
+  {
+   "kind": "MI",
+   "slide": 88,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Process",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Implement Sales Excellence",
+     "Pipeline Health accuracy improvement of avg of 10%",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Incident, Problem and Change Process",
+     "Implement ITIL a globally recognized ITSM framework",
+     "Q3 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Improve debtor management",
+     "Establish plan to reduce debt; tighten credit; renegotiate terms",
+     "Q2 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Enablers",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CVM",
+     "More than 2.5% contribution to service revenue with eCVM programs",
+     "Q4 2026",
+     "Control",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back Office Transformation",
+     "Lead to Order Automation; Salesforce integration; Billing automation",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Customer Experience",
+     "Online sales portal; reduce cost to serve; 10% increase in sales",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ],
+    [
+     "Training",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Core Sales & AI Training",
+     "Establish training plan aligned with OpCo strategy, including AI support",
+     "Q4 2026",
+     "Intermediate",
+     "Control",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "MI",
+   "slide": 86,
+   "headers": [
+    "Initiative",
+    "High Level Activities",
+    "Due Date",
+    "Current Maturity",
+    "Target Maturity",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "FY26/27 EBU MI Framework Scorecard",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SME Segment specific tailored propositions",
+     "EPIC VP launches; KASI Economy; Employee Connect; FWA & MS365; partner onboarding",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "ICT (Fixed, UCC, Cloud, IoT, Security)",
+     "ICT price increase; 5G FWA prepaid; fixed revenue R840m; converged R1.25B",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Telesales / Inside Sales Development",
+     "Debtors optimisation; virtual channels relaunch; OMNI channel; ICT as a VAS",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "S&D Growth Channel (BRC)",
+     "Debtors optimisation; cross-sell & upsell; ICT acceleration; Kasi/Township economy",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Defined Sales Process",
+     "Optimise sales cadencing; account-level performance tracking; Salesforce adoption",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "eCVM campaigns",
+     "Retentions & reduce OOC; reward-based campaigns; SME ICT cross-sell; lead gen & ASPU",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Back-office maturity",
+     "Arrears recovery; optimise O2C cycle; reduce OLA TAT; cost of sales reduction",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Website Presence",
+     "Employee Connect automation; prepaid MS365 online; postpaid leads tool; SEO",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ],
+    [
+     "Academy Development",
+     "Yello badge (Bronze/Flax/Yello); MS365 & AI certs; Huawei; sales bootcamp",
+     "FY26",
+     "Intermediate",
+     "Advanced",
+     "4"
+    ]
+   ]
+  },
+  {
+   "kind": "Priorities",
+   "slide": 89,
+   "headers": [
+    "Priority Area",
+    "KPI",
+    "Latest value"
+   ],
+   "rows": [
+    [
+     "Channel Performance",
+     "Implement SME Indirect Sales (S&D, Partners) — % Channel contribution",
+     "48%"
+    ],
+    [
+     "Grow Public Sector",
+     "Pipeline Cover — 3x Pipeline Coverage",
+     "1.4x"
+    ],
+    [
+     "Grow Public Sector",
+     "Conversion Rate — % Conversion of Pipeline",
+     "14%"
+    ],
+    [
+     "Consolidated MI",
+     "Growth in Maturity across the OpCo — 5% index growth",
+     "In progress for end of year"
+    ]
+   ]
+  },
+  {
+   "kind": "MI Tracker",
+   "slide": 90,
+   "headers": [
+    "Topic",
+    "Initiative",
+    "This month actions",
+    "RAG Status"
+   ],
+   "rows": [
+    [
+     "Sales Excellence",
+     "Increase LOM adoption; Accelerate conversion rate",
+     "Weekly pipeline review with line managers; ensure data integrity",
+     ""
+    ],
+    [
+     "Back-office transformation",
+     "LOM Integration; Customer centricity",
+     "Integrate LOM to Service Management tool; simplify supporting processes",
+     ""
+    ],
+    [
+     "Incremental Growth",
+     "Solution-Focused Approach; Integrated GTM",
+     "Market understanding metrics; reposition EBU; drive eCVM",
+     ""
+    ]
+   ]
+  }
+ ]
+}
