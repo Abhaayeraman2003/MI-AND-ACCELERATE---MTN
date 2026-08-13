@@ -48,10 +48,28 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-view = st.sidebar.radio("View", ["📝 Submit update", "📊 Dashboard"])
+view = st.sidebar.radio("View", ["📝 Submit update", "📊 Dashboard (admin)"])
 st.sidebar.divider()
 
-if view == "📊 Dashboard":
+
+def _admin_pin():
+    try:
+        return str(st.secrets.get("admin_pin", "")).strip()
+    except Exception:
+        return os.environ.get("ADMIN_PIN", "").strip()
+
+
+if view == "📊 Dashboard (admin)":
+    pin = _admin_pin()
+    if pin:
+        entered = st.sidebar.text_input("Admin passcode", type="password",
+                                        help="Only Group EBU can view the dashboard and the master file.")
+        if entered != pin:
+            st.info("🔒 The dashboard and master workbook are restricted to Group EBU. "
+                    "Enter the admin passcode in the sidebar to continue.")
+            if entered:
+                st.sidebar.error("Incorrect passcode.")
+            st.stop()
     render_dashboard(DATA)
     st.stop()
 
@@ -109,7 +127,7 @@ with st.sidebar:
     ryear = st.selectbox("Year", [str(today.year - 1), str(today.year), str(today.year + 1)], index=1)
     uname = st.text_input("Your name", placeholder="Full name")
     uemail = st.text_input("Your email", placeholder="name.surname@mtn.com")
-    st.caption("Saved to master Excel: `submissions.xlsx` ✅")
+    st.caption("Your update is saved securely to Group EBU (%s)." % store.storage_label())
 
 if country not in DATA:
     st.info("👈 Choose your OpCo in the sidebar to load your initiatives, or switch to the **Dashboard** view.")
@@ -200,20 +218,19 @@ if st.button("Submit to Group EBU ✓", type="primary", disabled=not valid):
         st.session_state.submitted = {
             "opco": country, "period": "%s %s" % (rmonth, ryear), "count": n,
             "updated": payload["itemsUpdated"], "xlsx": xlsx,
+            "ts": payload.get("submittedAt", "").replace("T", " ").replace("Z", ""),
             "fname": "MI_Accelerate_%s_%s%02d.xlsx" % (ascii_slug(country), ryear, MONTHS.index(rmonth) + 1),
         }
     except Exception as exc:
-        st.error("Could not save to the Excel workbook: %s" % exc)
+        st.error("Could not save your submission: %s" % exc)
         st.session_state.submitted = None
 
 if st.session_state.submitted:
     s = st.session_state.submitted
-    st.success("**Saved to the master Excel.** %s — %s · %d initiative(s) updated. "
-               "The workbook now holds %d OpCo submission(s). It appears on the Dashboard."
-               % (s["opco"], s["period"], s["updated"], s["count"]))
-    c1, c2 = st.columns(2)
-    c1.download_button("⬇️ Download your OpCo Excel", data=s["xlsx"], file_name=s["fname"],
+    st.success("**Submitted to Group EBU ✓** %s — %s · %d initiative(s) updated, "
+               "time-stamped **%s (UTC)**. Thank you."
+               % (s["opco"], s["period"], s["updated"], s["ts"]))
+    st.download_button("⬇️ Download a copy of your own submission", data=s["xlsx"], file_name=s["fname"],
                        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
-    c2.download_button("⬇️ Download master Excel (all OpCos)", data=store.master_bytes(),
-                       file_name="MI_Accelerate_submissions.xlsx",
-                       mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
+    st.caption("Note: the consolidated master file (all OpCos) is held by Group EBU and is not "
+               "downloadable here.")

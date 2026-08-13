@@ -194,5 +194,5 @@ def render_dashboard(DATA):
                 for r, p, cur, tgt in sorted(mi_prog, key=lambda x: x[1], reverse=True):
                     _progress_row("%s · %s" % (r["opco"], r["initiative"]), p, "%s→%s" % (cur, tgt))
 
-    st.caption("Data source: master Excel workbook `submissions.xlsx` (sheet ‘Submissions’). "
+    st.caption("Data source: master Excel workbook `submissions.xlsx` (one sheet per OpCo + Overview). "
                "Accelerate % = actual ÷ estimated impact; maturity % maps Basic→Intermediate→Control→Advanced.")
